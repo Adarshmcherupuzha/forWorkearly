@@ -11,7 +11,7 @@ const Home = () => {
       <div style={{ backgroundColor: "black", color: "aliceblue" }}>
         <HomeC1 />
 
-        <div class="container">
+        <div className="container">
           <HomeC2 />
           <HomeC3/>
 

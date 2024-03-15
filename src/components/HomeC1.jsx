@@ -5,31 +5,31 @@ const HomeC1 = () => {
     <div>
         
 
-    <div class="container">
-        <div class="row">
-            <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                <div class="container-fluid">
+    <div className="container">
+        <div className="row">
+            <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                <div className="container-fluid">
                     <br/><br/><br/><br/><br/><br/><br/>
                     <h1>Connecting Journeys, Delivering Dreams</h1>
                     <h6>Your Pathway to Seamless Transport Solutions.</h6>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Enter location" aria-label="Search"/>
+                    <form className="d-flex" role="search">
+                        <input className="form-control me-2" type="search" placeholder="Enter location" aria-label="Search"/>
 
 
-                        <input class="form-control me-2" type="search" placeholder="Enter Destination"
+                        <input className="form-control me-2" type="search" placeholder="Enter Destination"
                             aria-label="Search"/>
 
                     </form><br/>
-                    <button class="btn btn-outline-success" type="submit">See price</button><br/><br/><br/>
+                    <button className="btn btn-outline-success" type="submit">See price</button><br/><br/><br/>
 
                 </div>
 
 
 
             </div>
-            <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                 <img src="..\assets\main.jpg"
-                    class="d-block w-100" alt="..."/>
+                    className="d-block w-100" alt="..."/>
 
 
             </div>
@@ -37,9 +37,9 @@ const HomeC1 = () => {
 
 
 
-        <div class="container">
-            <div class="row">
-                <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+        <div className="container">
+            <div className="row">
+                <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
 
                     <br/> <br/><br/><br/>
