@@ -7,7 +7,7 @@ const Navbar = () => {
 >
         <div class="container-fluid">
             <img height="100px"
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6Dj_EcTPQRSoyjj1tc78A66AdNiyWaz_eA&usqp=CAU"
+                src="../assets/logo.png"
                 alt="..."/>
             <a class="navbar-brand text-light" href="#">GO</a>
 
