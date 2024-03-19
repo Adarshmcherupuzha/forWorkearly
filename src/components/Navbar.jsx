@@ -20,7 +20,7 @@ const Navbar = () => {
                     <a className="nav-link active text-light" aria-current="page" href="/">Home</a>
                     <a className="nav-link text-light    " href="/vehicles">Vehicles</a>
                     <a className="nav-link text-light" href="/safety">Safety</a>
-                    <a className="nav-link text-light" href="">Help</a>
+                    <a className="nav-link text-light" href="/help">Help</a>
 
 
                     <a className="nav-link text-light" href="">Login</a>
