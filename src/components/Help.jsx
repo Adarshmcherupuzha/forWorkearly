@@ -9,10 +9,9 @@ const Help = () => {
       <Navbar />
 
       <div className="container">
-        <Help1/>
-        
-        <Help2/>
-        
+        <Help1 />
+
+        <Help2 />
       </div>
     </div>
   );

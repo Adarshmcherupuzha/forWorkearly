@@ -23,7 +23,7 @@ const Navbar = () => {
                     <a className="nav-link text-light" href="/help">Help</a>
 
 
-                    <a className="nav-link text-light" href="">Login</a>
+                    <a className="nav-link text-light" href="/login">Login</a>
 
                     <div className="d-grid gap-2 d-md-flex justify-content-md-end">
                         <button className="btn btn-primary" type="button">Sign Up</button>
