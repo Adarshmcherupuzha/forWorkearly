@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import HomeC1 from "./HomeC1";
 import HomeC2 from "./HomeC2";
 import HomeC3 from "./HomeC3";
+import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -17,7 +18,9 @@ const Home = () => {
 
         
         </div>
+        <Footer/>
       </div>
+      
     </div>
   );
 };
