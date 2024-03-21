@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Help1 from "./Help1";
 import Help2 from "./Help2";
+import Footer from "./Footer";
 
 const Help = () => {
   return (
@@ -13,6 +14,7 @@ const Help = () => {
 
         <Help2 />
       </div>
+      <Footer/>
     </div>
   );
 };

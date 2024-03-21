@@ -4,6 +4,7 @@ import VehiclesC1 from "./VehiclesC1";
 import VehicleC2 from "./VehicleC2";
 import VehiclesC3 from "./VehiclesC3";
 import VehiclesC4 from "./VehiclesC4";
+import Footer from "./Footer";
 
 const Vehicles = () => {
   return (
@@ -16,6 +17,7 @@ const Vehicles = () => {
 
         <VehiclesC4 />
       </div>
+      <Footer/>
     </div>
   );
 };

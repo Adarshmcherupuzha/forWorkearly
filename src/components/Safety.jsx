@@ -4,6 +4,7 @@ import Safety1 from "./Safety1";
 import Safety2 from "./Safety2";
 import Safety3 from "./Safety3";
 import Safety4 from "./Safety4";
+import Footer from "./Footer";
 
 const Safety = () => {
   return (
@@ -15,6 +16,7 @@ const Safety = () => {
         <Safety3 />
         <Safety4 />
       </div>
+      <Footer/>
     </div>
   );
 };
